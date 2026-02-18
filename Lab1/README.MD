@@ -51,14 +51,14 @@ python3 main.py
 ## Examples
 
 **Valid strings:**
-- `db` ✓
-- `dab` ✓
-- `bbbdab` ✓
-- `ddcca` ✓
+- `db` 
+- `dab` 
+- `bbbdab` 
+- `ddcca` 
 
 **Invalid strings:**
-- `abc` ✗ (doesn't start with b or d)
-- `da` ✗ (doesn't end correctly)
+- `abc`  (doesn't start with b or d)
+- `da`  (doesn't end correctly)
 
 ---
 
