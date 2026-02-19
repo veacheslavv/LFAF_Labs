@@ -2,8 +2,8 @@
 
 **Course:** Formal Languages & Finite Automata  
 **Variant:** 16  
-**Student:** [Morari Veaceslav]  
-**Group:** [FAF-243]
+**Student:** Morari Veaceslav
+**Group:** FAF-243
 
 ---
 
