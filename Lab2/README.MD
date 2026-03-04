@@ -112,9 +112,6 @@ Each row represents a DFA super-state (a set of NDFA states) and its transitions
 
 The resulting DFA has **6 states**. Final states are any super-state that contains q3, namely {q3} and {q1,q2,q3}.
 
-### Bonus — Graphviz Visualization
-
-The `to_dot()` method generates a DOT string for both the NDFA and the DFA. Paste the output into [dreampuf.github.io/GraphvizOnline](https://dreampuf.github.io/GraphvizOnline) to render the diagram without installing any additional libraries.
 
 ---
 
