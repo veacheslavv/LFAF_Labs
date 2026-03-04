@@ -167,4 +167,3 @@ Hopcroft, J. E., Motwani, R., Ullman, J. D. (2006). *Introduction to Automata Th
 ---
 
 **Date:** February 2026
-**Repository:** [GitHub Link]
