@@ -185,7 +185,7 @@ python3 main.py
 laboratory-work-3/
 ├── lexer.py      # Token class, Lexer class
 ├── main.py       # Example queries and output
-└── REPORT.md     # This file
+└── README.MD     # This file
 ```
 
 ---
